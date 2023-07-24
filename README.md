@@ -7,7 +7,9 @@ In addition to my technical proficiency, I thrive in collaborative team environm
 ## Job Experience
 
 > Full Stack Developer - JalaSoft
+
 > Full Stack Developer (Internship) - Jala Foundation
+
 > Freelancer
 
 ## Projects
